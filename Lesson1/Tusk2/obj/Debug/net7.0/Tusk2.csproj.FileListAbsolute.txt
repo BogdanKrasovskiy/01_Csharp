@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\bin\Debug\net7.0\Tusk2.exe
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\bin\Debug\net7.0\Tusk2.deps.json
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\bin\Debug\net7.0\Tusk2.runtimeconfig.json
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\bin\Debug\net7.0\Tusk2.dll
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\bin\Debug\net7.0\Tusk2.pdb
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.AssemblyInfo.cs
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.dll
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\refint\Tusk2.dll
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.pdb
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\Tusk2.genruntimeconfig.cache
+C:\Users\User\Desktop\01_CSharp\Lesson1\Tusk2\obj\Debug\net7.0\ref\Tusk2.dll
